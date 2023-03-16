@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=nilay16/udacityproject
+# dockerpath=sourabhvverma/udacityproject
 
 # Step 2:  
 # Authenticate & tag
