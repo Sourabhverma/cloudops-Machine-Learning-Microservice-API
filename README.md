@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/sourabhverma/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/sourabhverma/Operationalize-a-Machine-Learning-Microservice-API)
+CircleCI Status Successful :- https://app.circleci.com/pipelines/github/Sourabhverma/cloudops-Machine-Learning-Microservice-API/1/workflows/8853cbf6-02fa-488d-83dd-a165f0946413
+
 
 ## Project Overview
 
